@@ -1,0 +1,15 @@
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\bin\Debug\net6.0\BibliothéqueApp.exe
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\bin\Debug\net6.0\BibliothéqueApp.deps.json
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\bin\Debug\net6.0\BibliothéqueApp.runtimeconfig.json
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\bin\Debug\net6.0\BibliothéqueApp.dll
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\bin\Debug\net6.0\BibliothéqueApp.pdb
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.csproj.AssemblyReference.cache
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.AssemblyInfoInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.AssemblyInfo.cs
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.csproj.CoreCompileInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.dll
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\refint\BibliothéqueApp.dll
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.pdb
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\BibliothéqueApp.genruntimeconfig.cache
+C:\Users\ZIANI Mohammed\source\repos\BibliothéqueApp\BibliothéqueApp\obj\Debug\net6.0\ref\BibliothéqueApp.dll

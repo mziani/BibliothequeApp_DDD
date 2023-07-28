@@ -1,0 +1,12 @@
+28/07/2023 13:53:52: Emprunt du livre 572aa6bc-b97d-41b7-bb70-8afc7fcb8176 par l'utilisateur 1392a520-2abc-459b-9713-bc8ee3be34e3 le 28/07/2023 13:53:52.
+28/07/2023 14:03:29: Emprunt du livre 140a9298-b71a-48a7-bdec-9d32ed0b7a80 par l'utilisateur 92da029f-4dfb-4386-a9d9-20a0e6782bf2 le 28/07/2023 14:03:29.
+28/07/2023 14:05:15: Emprunt du livre 61eb0896-473a-479f-9429-009894680a3c par l'utilisateur c3761d88-14f2-493e-b8cf-9b664175526e le 28/07/2023 14:05:15.
+28/07/2023 14:16:11: Emprunt du livre 06ce4090-cddd-4a2a-b5f0-654d735b867e par l'utilisateur 6669feea-c9d5-46ef-b8bb-1c31aafffdae le 28/07/2023 14:16:11.
+28/07/2023 14:50:55: Emprunt du livre ec65f800-4b3d-44af-a0b4-5c1231e34834 par l'utilisateur ef208ce3-3a36-46c3-bbc2-2968df2852e9 le 28/07/2023 14:50:55.
+28/07/2023 15:01:58: Emprunt du livre ff593a48-8040-4a5a-9684-1a2872316e72 par l'utilisateur 51361418-3459-4fa8-865f-1fa700dbb531 le 28/07/2023 15:01:58.
+28/07/2023 15:02:19: Emprunt du livre d84c1b3c-95cc-47f9-bf7f-d26ec68f416e par l'utilisateur 435e53f8-19cc-44e6-be15-f4d37e6cd534 le 28/07/2023 15:02:19.
+28/07/2023 15:03:13: Emprunt du livre d68f25d3-06e2-40e3-af2d-45fbefc4a6a4 par l'utilisateur fce3d310-9e0c-418e-a660-83d419719844 le 28/07/2023 15:03:13.
+28/07/2023 15:13:04: Emprunt du livre b868ec18-302b-43e2-b7c1-d5b43a5acbba par l'utilisateur e1d41725-bc3b-414d-9b59-52769b18c81f le 28/07/2023 15:13:04.
+28/07/2023 15:13:14: Emprunt du livre 83dccc7d-9c97-4483-aab2-13cb63f1085d par l'utilisateur 9d801f3e-1cca-45c1-8576-4877d5e84cd0 le 28/07/2023 15:13:14.
+28/07/2023 15:14:58: Emprunt du livre c56d1612-fc28-4cf9-a5d4-f40a6c8a072a par l'utilisateur a413b109-d46b-45dc-a3fa-bdabfafb025f le 28/07/2023 15:14:58.
+28/07/2023 15:16:55: Emprunt du livre 9d0a521e-2ddf-400a-a3cf-129901f68fbf par l'utilisateur dd719c3b-cec3-4311-807b-9dcd599067fb le 28/07/2023 15:16:55.
